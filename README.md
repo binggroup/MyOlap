@@ -6,44 +6,17 @@ MyOlap
 Overview
 ----
 
-本项目旨在帮助用户快速建立起OLAP分析系统。
+本项目旨在帮助用户快速建立起OLAP数据多维分析系统。
 
 
 
 
-#### 前端技术
+#### 特别说明
 
 - 本系统以JEECG-BOOT为基础框架搭建，详细可以参考https://github.com/zhangdaiscott/jeecg-boot
 
+- 目前改项目为团队在新冠肺炎期间远程写作开发项目，开发进行中，暂时不能提供实际使用，敬请关注。
 
-项目下载和运行
-----
-
-- 拉取项目代码
-```bash
-git clone https://github.com/zhangdaiscott/jeecg-boot.git
-cd  jeecg-boot/ant-design-jeecg-vue
-```
-
-- 安装依赖
-```
-yarn install
-```
-
-- 开发模式运行
-```
-yarn run serve
-```
-
-- 编译项目
-```
-yarn run build
-```
-
-- Lints and fixes files
-```
-yarn run lint
-```
 
 
 
@@ -64,4 +37,4 @@ yarn run lint
 备注
 ----
 
-> @vue/cli 升级后，eslint 规则更新了。由于影响到全部 .vue 文件，需要逐个验证。既暂时关闭部分原本不验证的规则，后期维护时，在逐步修正这些 rules
+> 采用vue
