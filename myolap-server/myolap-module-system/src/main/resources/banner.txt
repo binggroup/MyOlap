@@ -1,0 +1,18 @@
+${AnsiColor.BRIGHT_BLUE}
+ooo        ooooo               .oooooo.   oooo
+`88.       .888'              d8P'  `Y8b  `888
+ 888b     d'888  oooo    ooo 888      888  888   .oooo.   oo.ooooo.
+ 8 Y88. .P  888   `88.  .8'  888      888  888  `P  )88b   888' `88b
+ 8  `888'   888    `88..8'   888      888  888   .oP"888   888   888
+ 8    Y     888     `888'    `88b    d88'  888  d8(  888   888   888
+o8o        o888o     .8'      `Y8bood8P'  o888o `Y888""8o  888bod8P'
+                 .o..P'                                    888
+                 `Y8P'                                    o888o
+
+
+
+
+${AnsiColor.BRIGHT_GREEN}
+MyOlap Version: 0.0.1
+Spring Boot Version: ${spring-boot.version}${spring-boot.formatted-version}
+${AnsiColor.BLACK}
