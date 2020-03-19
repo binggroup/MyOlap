@@ -37,4 +37,6 @@ Overview
 备注
 ----
 
-> 采用vue
+> 采用vue  
+前端项目目录下 npm install 
+npm run serve
