@@ -33,7 +33,7 @@
 	<dependencies>
 		<dependency>
 			<groupId>com.cyou.bi</groupId>
-			<artifactId>myolap-parent-base-common</artifactId>
+			<artifactId>myolap-base-common</artifactId>
 			<version>0.0.1</version>
 		</dependency>
 	</dependencies>
