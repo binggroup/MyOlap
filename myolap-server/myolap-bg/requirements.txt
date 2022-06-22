@@ -3,7 +3,7 @@ Flask==1.1.2
 itsdangerous==1.1.0
 Jinja2==2.11.2
 MarkupSafe==1.1.1
-numpy==1.18.3
+numpy==1.22.0
 pandas==1.0.3
 pip==20.0.2
 PyMySQL==0.9.3
