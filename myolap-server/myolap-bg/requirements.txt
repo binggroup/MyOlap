@@ -9,7 +9,7 @@ pip==20.0.2
 PyMySQL==0.9.3
 python-dateutil==2.8.1
 pytz==2020.1
-setuptools==40.8.0
+setuptools==65.5.1
 six==1.14.0
 Werkzeug==1.0.1
 DBUtils==1.3
